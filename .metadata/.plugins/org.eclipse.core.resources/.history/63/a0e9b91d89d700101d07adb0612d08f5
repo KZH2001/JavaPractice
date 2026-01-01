@@ -1,0 +1,30 @@
+package sumCalculation;
+
+
+public class Sum {
+
+	public static void main(String[] args) {
+		launch();
+	}
+	
+	
+	//run
+	private static void launch() {
+		showMessage("Welcomme");
+	}
+	
+	//show message
+	private static void showMessage(String message) {
+		System.out.println("--------------------");
+		System.out.println(message);
+		System.out.println("--------------------");
+	}
+	
+	//get user input
+	private static getUserInput() {
+		
+	}
+	
+	
+
+}

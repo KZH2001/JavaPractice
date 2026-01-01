@@ -1,0 +1,16 @@
+package sumCalculation;
+
+public class Sum {
+
+	public static void main(String[] args) {
+		
+
+	}
+	
+	private static void showMessage(String message) {
+		System.out.println("--------------------");
+		System.out.println(message);
+		System.out.println("--------------------");
+	}
+
+}
