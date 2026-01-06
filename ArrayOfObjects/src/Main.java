@@ -13,7 +13,6 @@ public class Main {
 		Car car3 = new Car("Suzuki","yellow");
 		
 		Car[] cars = {car1,car2,car3};
-		Car[] Car = {car1,car2,car3};
 		for(int i = 0; i < cars.length; i++) {
 			 System.out.println(cars[i].name);
 		}
