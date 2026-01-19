@@ -4,5 +4,5 @@
 /**
  * 
  */
-module RandomNumber {
+module haspMap {
 }
